@@ -1,0 +1,1 @@
+The project contains the front end and connection details of the cloud project.
